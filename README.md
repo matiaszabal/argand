@@ -1,1 +1,1 @@
-# argand
+# mechanistic interpretability
