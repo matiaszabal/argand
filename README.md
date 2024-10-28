@@ -1,3 +1,6 @@
+## in-context learning and induction heads 
+https://www.youtube.com/watch?v=yMGG2OENyu0
+
 ## mechanistic interpretability
 
 https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb#scrollTo=MadVZ_UVxw6j
